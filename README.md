@@ -1,6 +1,5 @@
 # Aplicativo-Tarefas
- Aplicativo para gerenciamento de tarefas feito com Flutter e SQLite
- 
+ Aplicativo para gerenciamento de tarefas feito com Flutter e SQLite.
 
 # Tela Principal do App
  
