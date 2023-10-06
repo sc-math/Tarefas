@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="nosso_primeiro_projeto"
+        android:label="tarefas_teste"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
